@@ -1,42 +1,42 @@
 {
-    "dna": "363b038583c7fa61ced858888ae82354",
-    "name": "Killianz #1",
-    "description": null,
-    "image": "https://gateway.pinata.cloud/ipfs/QmQuYsB5KqBQpE3Vfk1tNYM5968zbeQAwkvbc71QX2VNDo/1.png",
-    "date": 1655971620721,
-    "attributes": [
-      {
-        "trait_type": "BODY",
-        "value": "FULLBODY ORIGIN BLACK MAN"
-      },
-      {
-        "trait_type": "SHOES",
-        "value": "SNICKERS ORANGE"
-      },
-      {
-        "trait_type": "UNDERGARMENTS",
-        "value": "SIXT PACKET  LIGHT BROWN"
-      },
-      {
-        "trait_type": "SHIRTS",
-        "value": "SANDO GREEN"
-      },
-      {
-        "trait_type": "EYES",
-        "value": "EYES1"
-      },
-      {
-        "trait_type": "NOSE",
-        "value": "ilong  kilay"
-      },
-      {
-        "trait_type": "MOUTH",
-        "value": "MOUTH SHOUTING"
-      },
-      {
-        "trait_type": "HAIR",
-        "value": "HAIRROCKERS"
-      }
-    ],
-    "compiler": "mintables.club"
-  }
+  "dna": "363b038583c7fa61ced858888ae82354",
+  "name": "Killianz #1",
+  "description": null,
+  "image": "https://gateway.pinata.cloud/ipfs/QmQwibEGETZN12ZYmM8cxuEpcFsmaEafzntoX6CTs2LY4Y",
+  "date": 1655971620721,
+  "attributes": [
+    {
+      "trait_type": "BODY",
+      "value": "FULLBODY ORIGIN BLACK MAN"
+    },
+    {
+      "trait_type": "SHOES",
+      "value": "SNICKERS ORANGE"
+    },
+    {
+      "trait_type": "UNDERGARMENTS",
+      "value": "SIXT PACKET  LIGHT BROWN"
+    },
+    {
+      "trait_type": "SHIRTS",
+      "value": "SANDO GREEN"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "EYES1"
+    },
+    {
+      "trait_type": "NOSE",
+      "value": "ilong  kilay"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "MOUTH SHOUTING"
+    },
+    {
+      "trait_type": "HAIR",
+      "value": "HAIRROCKERS"
+    }
+  ],
+  "compiler": "mintables.club"
+}
